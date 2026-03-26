@@ -54,14 +54,6 @@ cd portfolio
 
 ---
 
-## 📫 Contact
-
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 🐙 GitHub: https://github.com/your-username
-
----
-
 ## ⭐ Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
