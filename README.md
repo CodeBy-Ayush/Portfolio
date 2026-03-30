@@ -1,11 +1,11 @@
-## 🌐 Ayush Kumar — Portfolio
+# 🌐 Ayush Kumar — Portfolio
 
 Welcome to my personal portfolio website!
 This project showcases my skills, projects, and experience as a Full Stack Developer.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 Hi, I'm **Ayush Kumar** — a B.Tech Computer Science student at Lovely Professional University.
 
@@ -15,7 +15,7 @@ Hi, I'm **Ayush Kumar** — a B.Tech Computer Science student at Lovely Professi
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 * **Frontend:** React.js, HTML, CSS, JavaScript
 * **Backend:** Node.js, Express.js
@@ -24,7 +24,7 @@ Hi, I'm **Ayush Kumar** — a B.Tech Computer Science student at Lovely Professi
 
 ---
 
-## 📂 Features
+# 📂 Features
 
 * ✨ Modern and responsive UI
 * 📱 Fully responsive design
@@ -34,13 +34,13 @@ Hi, I'm **Ayush Kumar** — a B.Tech Computer Science student at Lovely Professi
 
 ---
 
-## 🌍 Live Demo
+# 🌍 Live Demo
 
 👉 https://CodeBY-Ayush.github.io/portfolio/
 
 ---
 
-## 📦 Installation & Setup
+# 📦 Installation & Setup
 
 ```bash
 # Clone the repository
@@ -54,7 +54,7 @@ cd portfolio
 
 ---
 
-## ⭐ Contributing
+# ⭐ Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
