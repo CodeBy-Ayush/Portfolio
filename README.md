@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!
 This project showcases my skills, projects, and experience as a Full Stack Developer.
 
----
+-----
 
 # 🚀 About Me
 
@@ -52,13 +52,13 @@ cd portfolio
 # Open index.html in browser
 ```
 
----
+----
 
 # ⭐ Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
----
+----
 
 ## 📄 License
 
