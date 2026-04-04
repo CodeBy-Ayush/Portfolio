@@ -5,7 +5,7 @@ This project showcases my skills, projects, and experience as a Full Stack Devel
 
 -----
 
-# 🚀 About Me
+## 🚀 About Me
 
 Hi, I'm **Ayush Kumar** — a B.Tech Computer Science student at Lovely Professional University.
 
